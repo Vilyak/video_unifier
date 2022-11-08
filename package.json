@@ -1,0 +1,11 @@
+{
+  "name": "video-handler",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@ffmpeg-installer/ffmpeg": "^1.1.0",
+    "@types/node": "^18.11.7",
+    "fluent-ffmpeg": "^2.1.2"
+  }
+}
